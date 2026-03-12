@@ -8,7 +8,7 @@ musically it’s very complicated — **jungle**, **slacker rock**, **indie rock
 
 **currently working on**
 
-- unnamed client — 1.21.1 client
+- unnamed client — 1.21.11 client with cloud config
 - unnamed project — temp file host, image host
 
 **stuff i use**
