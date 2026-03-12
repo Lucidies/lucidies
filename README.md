@@ -1,16 +1,17 @@
-## Hi there 👋
+# hi, i’m lucid
 
-<!--
-**Lucidies/lucidies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a person with a passion for **low-level systems** and exploring modern features in programming languages. i enjoy designing **clean ui/ux** and diving into the inner workings of software.
 
-Here are some ideas to get you started:
+musically it’s very complicated — **jungle**, **slacker rock**, **indie rock**, and whatever other genre rabbit hole i fall into. one of my favorite artists of all time is [key vs. locket](https://soundcloud.com/keyvslocket), also known as d2lta or twikipedia. you should listen to them sometime.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+
+**currently working on**
+
+- unnamed client — 1.21.1 client
+- unnamed project — temp file host, image host
+
+**stuff i use**
+
+- java
+- vanilla js, html/css
