@@ -1,4 +1,4 @@
-# hi, i’m lucid
+# hi, i’m june / lucid
 
 i'm a person with a passion for **low-level systems** and exploring modern features in programming languages. i enjoy designing **clean ui/ux** and diving into the inner workings of software.
 
@@ -8,9 +8,9 @@ musically it’s very complicated — **jungle**, **slacker rock**, **indie rock
 
 **currently working on**
 
-- unnamed client — 1.21.11 client with cloud config
+- unnamed client — client
 - unnamed project — temp file host, image host
-
+- 
 **stuff i use**
 
 - java
